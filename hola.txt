@@ -1,1 +1,6 @@
 holaaaaaaa
+
+- modifico algo
+-  git add . (o el documento concreto, hola.docx)
+-  git commit -m "mensaje"
+-  git push (para pasarlo al repositorio remoto)
